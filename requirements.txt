@@ -4,3 +4,4 @@ descartes==1.1.0
 rasterio==1.2.1
 contextily==1.1.0
 folium==0.12.0
+geoplot==0.4.1
